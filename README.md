@@ -8,6 +8,7 @@ Kudan AR iOS SDK の機能のデモンストレーション
 
 - [エクセルソフトの Kudan ダウンロードページ](https://www.xlsoft.com/jp/products/kudan/download.html?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Public-Samples-iOS) から最新の Kudan AR iOS SDK のダウンロードをお申し込みください。
 - `KudanAR.framework` をプロジェクト フォルダーにコピーまたは移動します。
+- [Build Settings (ビルド設定)] タブで [Build Options (ビルド オプション)] にスクロールして、[Enable Bitcode (ビットコードを有効にする)] を [No (いいえ)] に設定します。
 - ビルドして実行します。
 
 ## エクセルソフトについて
