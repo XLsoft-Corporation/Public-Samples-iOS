@@ -6,7 +6,7 @@ A demonstration of some of the features of the Kudan iOS SDK
 
 ## Instructions
 
-- Download the Kudan AR iOS SDK here: [https://www.xlsoft.com/en/products/kudan/download.html](https://www.xlsoft.com/en/products/kudan/download.html?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Public-Samples-iOS)
+- Download the Kudan AR iOS SDK [here](https://www.xlsoft.com/en/products/kudan/download.html?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Public-Samples-iOS)
 - Drop the `KudanAR.framework` into your project
 - Disable Bitcode, go to the Build Settings tab of your workspace, scroll down to Build Options, and set Enable Bitcode to No.
 - Run the XCode project
